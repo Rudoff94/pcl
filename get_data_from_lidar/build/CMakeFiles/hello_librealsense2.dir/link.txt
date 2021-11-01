@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hello_librealsense2.dir/test.cpp.o  -o hello_librealsense2  -Wl,-rpath,/opt/ros/noetic/lib/x86_64-linux-gnu /opt/ros/noetic/lib/x86_64-linux-gnu/librealsense2.so.2.48.0 
